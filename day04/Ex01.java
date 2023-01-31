@@ -5,7 +5,7 @@ import java.util.Calendar;
 /**
  * @author kenik 
  * @date  2023. 1. 31. - 오전 7:08:13
- * @subject   하동호 (개인사정)
+ * @subject   
  * @content  복습문제  9:35 제출
  *
  */
