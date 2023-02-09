@@ -40,13 +40,13 @@
 //if( checksum=11-((2*ㄱ.........)%11))
 //
 //    if(checksym ==11)
+////
+//int []m ={2,3,4,5,6,7,8,9,2,3,4,5};
+//int tot=0;
+//for (int i =0; i <arg.length;i++){
+//    if(i==6) countinue;
+//    tot +=Integer.parseInt(rrn.substring(i,i+1)*m[i];
 //
-int []m ={2,3,4,5,6,7,8,9,2,3,4,5};
-int tot=0;
-for (int i =0; i <arg.length;i++){
-    if(i==6) countinue;
-    tot +=Integer.parseInt(rrn.substring(i,i+1)*m[i];
-
-        }
-
-intk checksum = (11-)
+//        }
+//
+//intk checksum = (11-)

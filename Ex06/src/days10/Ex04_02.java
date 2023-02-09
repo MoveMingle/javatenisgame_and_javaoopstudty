@@ -19,7 +19,20 @@ public class Ex04_02 {
 		// 12:00 쉬는시간 + 10분
 		// 12:11 수업시작~
 		// [문제]  <=100
-		
+
+//		int term = 1;
+//		int increase = 0;  // 증가치
+//
+//
+//		for (int i = 1; i <= 10; i++) {  // 반복 횟수   i == increase
+//			term += increase;
+//
+//			System.out.printf("%d+", term);   // 1+2+
+//			increase++; // 2
+//		} // for
+//??
+
+
 		int firstTerm = 1;
 		int secondTerm = 1;		
 		int nextTerm  ;
